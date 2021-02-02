@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: myes
+  mvc:
+    servlet:
+      path: /myes
+  rabbitmq:
+    port: 8080
